@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Parwana.
+- 👋 Hi, I’m Marwa Qadiri.
 - 👀 I’m interested in teaching and learning new staff.
 - 🌱 I’m currently learning Docker and Cloud.
 - 💞️ I’m looking to collaborate on full-stack projects.
